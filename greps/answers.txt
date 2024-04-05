@@ -106,8 +106,8 @@ filescan_00.4
 
 # Part 2
 ### a)
-There are 15 Pokemons.
--> grep -c 'forest' /Users/danny/Projects/Grep.Data.CatchEmAll2/greps/answers.txt
+There are 15 Pokemons!
+not including this command -> grep -c 'forest' /Users/danny/Projects/Grep.Data.CatchEmAll2/greps/answers.txt
 
 ### b)
 Beedrill, Charizard, and Pikachu are the three biggest Pokemons :)

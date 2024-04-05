@@ -17,32 +17,40 @@ grep "jigg" forest/filescan_00.3 -> jigglypuff.txt
 grep "meow" forest/filescan_00.3 -> meowth.txt
 grep "chu" forest/filescan_00.3 -> pikachu.txt
 
-
-
-
-
-
-
-
-
+#file4
+grep "psyd" forest/filescan_00.4 -> psyduck.txt
+grep "squi" forest/filescan_00.4 -> squirtle.txt
+grep "venu" forest/filescan_00.4 -> venusaur.txt
+grep "wart" forest/filescan_00.4 -> wartortle.txt
 
 ### b)
+COMPLETED
 
 
 
 ### c)
+filescan_00.1
+- beedrill
+- blastoise
+- bulbasaur
+- butterfree
 
+filescan_00.2
+- charmander
+- charmeleon
+- charizard
 
+filescan_00.3
+- ivysaur
+- jigglypuff
+- meowth
+- pikachu
 
-
-
-
-
-
-
-
-
-
+filescan_00.4
+- psyduck
+- squirtle
+- venusaur
+- wartortle
 
 # Part 2
 ### a)
